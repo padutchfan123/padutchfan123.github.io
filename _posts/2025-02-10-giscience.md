@@ -1,5 +1,6 @@
 ---
 title: "Is GIScience Reproducible?"
+last_modified_at: 2025-02-17T12:35:0-05:00
 categories:
   - Blog
 tags:
