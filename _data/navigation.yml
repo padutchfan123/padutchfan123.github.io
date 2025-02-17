@@ -1,4 +1,5 @@
 main:
+  - color : "blue"
   - title: "Posts"
     url: /posts/
   - title: "Categories"
