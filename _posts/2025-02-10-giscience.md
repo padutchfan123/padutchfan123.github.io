@@ -1,6 +1,6 @@
 ---
 title: "Is GIScience Reproducible?"
-last_modified_at: 2025-02-17T12:35:0-05:00
+last_modified_at: 2025-05-16T10:43:0-05:00
 categories:
   - Blog
 tags:
@@ -17,6 +17,6 @@ Opportunities to address the challenges facing reproducibility and replicability
 
 ### References
 
-- NASEM (National Academies of Sciences, Engineering, and Medicine). 2019. *Reproducibility and Replicability in Science*. Washington, D.C.: National Academies Press. DOI:10.17226/25303
-- Holler, Joseph, Yifei Luo, Peter Kedron, and Sarah Bardin. 2023. “Reproducibility Survey Data Visualization.” OSF. August 15. doi:10.17605/OSF.IO/B47XU.
-- Holler, Joseph, Yifei Luo, Peter Kedron, and Sarah Bardin. 2023. “Replicability Survey Data Visualization.” OSF. August 15. doi:10.17605/OSF.IO/KUCHA.
+- NASEM (National Academies of Sciences, Engineering, and Medicine). 2019. *Reproducibility and Replicability in Science*. Washington, D.C.: National Academies Press. [DOI:10.17226/25303](https://doi.org/10.17226/25303).
+- Holler, Joseph, Yifei Luo, Peter Kedron, and Sarah Bardin. 2023. “Reproducibility Survey Data Visualization.” OSF. August 15. [doi:10.17605/OSF.IO/B47XU](https://doi.org/10.17605/OSF.IO/B47XU).
+- Holler, Joseph, Yifei Luo, Peter Kedron, and Sarah Bardin. 2023. “Replicability Survey Data Visualization.” OSF. August 15. [doi:10.17605/OSF.IO/KUCHA](https://doi.org/10.17605/OSF.IO/KUCHA).
